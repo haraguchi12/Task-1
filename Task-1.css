@@ -75,7 +75,7 @@ footer {
   }
 
 .step-box{
-  width: 100;
+  width: 90%;
   margin: 0 auto;
 }
 .step-box:first-child,.step-box:nth-child(2){
